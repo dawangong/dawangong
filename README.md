@@ -3,7 +3,9 @@
 
 <p align="center"> <a href="https://github.com/dawangong"><img src="https://github-profile-trophy.vercel.app/?username=dawangong" alt="dawangong" /></a> </p>
 
-- 🔭 I’m currently working on react hooks and replica Google browser dinosaur games.
+- 🔭 I’m currently working on replica Google browser dinosaur games.
+- 🌱 I’m currently learning react hooks.
+- 📫 How to reach me: dawangong@126.com.
 
 <!--
 **dawangong/dawangong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
