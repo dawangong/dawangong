@@ -5,8 +5,10 @@
 
 - 🔭 I’m currently working on replica Google browser dinosaur games.
 - 🌱 I’m currently learning react hooks.
+- 📝 I write in CSDN: https://blog.csdn.net/wangongda.
+- 🌈 I have a website of my own: http://www.jcspace.site/.
 - 📫 How to reach me: dawangong@126.com.
-- ⚡ Fun fact: I feel like I'm quite fashionable.
+- 🐒 Fun fact: I feel like I'm quite fashionable.
 
 <!--
 **dawangong/dawangong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
