@@ -2,6 +2,9 @@
 <h3 align="center"> If you are a person who just like technology, maybe we can be friends 😄 </h3>
 
 <p align="center"> <a href="https://github.com/dawangong"><img src="https://github-profile-trophy.vercel.app/?username=dawangong" alt="dawangong" /></a> </p>
+
+- 🔭 I’m currently working on react hooks and replica Google browser dinosaur games.
+
 <!--
 **dawangong/dawangong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
