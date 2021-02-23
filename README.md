@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, Welcome To My Github</h1> 
-<h3 align="center"> Welcome To My Github 👋  </h3>
+<h3 align="center"> If you are a person who just like technology, maybe we can be friends 😄 </h3>
 
 <!--
 **dawangong/dawangong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
