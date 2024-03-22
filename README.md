@@ -3,8 +3,8 @@
 
 <p align="center"> <a href="https://github.com/dawangong"><img src="https://github-profile-trophy.vercel.app/?username=dawangong" alt="dawangong" /></a> </p>
 
-- 🔭 I’m currently working on replica Google browser dinosaur games.
-- 🌱 I’m currently learning react hooks.
+- 🔭 I’m currently working on game development by cocos or ue or godot.
+- 🌱 I’m currently learning rust.
 - 📝 I write in CSDN: https://blog.csdn.net/wangongda.
 - 🌈 I have a website of my own: http://www.jcspace.site/.
 - 📫 How to reach me: dawangong@126.com.
